@@ -1,0 +1,5 @@
+void greet() {
+    cout << "Hello World";
+    int a = 2
+    i++
+}

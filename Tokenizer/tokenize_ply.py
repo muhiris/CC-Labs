@@ -1,6 +1,6 @@
 import ply.lex as lex
 
-inputIs = open('checkToken.txt', 'r')
+inputIs = open('tokens.txt', 'r')
 tokenized = []
 asNum = []
 tokens = (

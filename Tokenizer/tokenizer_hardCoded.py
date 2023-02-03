@@ -5,7 +5,7 @@ from operator import index
 from numpy import number
 
 
-file = open('src.txt','r')
+file = open('tokens.txt','r')
 
 store=''
 mainList=[]
@@ -15,7 +15,7 @@ while 1:
     print(store)
     char = file.read(1)
     if not char:
-        print( 'Abdullah')
+        print( 'Empty')
         #if the end is empty or store is, Don't append
         if(store!=''):
             mainList.append(store)

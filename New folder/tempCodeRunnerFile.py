@@ -1,1 +1,0 @@
-print(file.read(1))

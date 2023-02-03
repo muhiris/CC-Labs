@@ -1,6 +1,6 @@
 
 # Reading from the file
-read_obj = open('C:/Users/Abdullah/Desktop/test/Compiler Construction/file_handle/src2.txt', 'r')
+read_obj = open('src2.txt', 'r')
 code = read_obj
 
 # Initializing lists

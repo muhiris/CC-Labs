@@ -116,7 +116,7 @@ def tokenize(line):
 
 
 
-f1= open("C:/Users/Abdullah/Desktop/test/Compiler Construction/file_handle/src2.txt", "r")
+f1= open("src2.txt", "r")
 listf1=f1.readlines()
 
 for i in listf1:

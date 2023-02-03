@@ -1,4 +1,4 @@
-file = open('Input.txt','rt')
+file = open('input.txt','rt')
 
 store=''
 mainList=[]

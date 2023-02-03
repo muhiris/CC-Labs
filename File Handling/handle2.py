@@ -1,7 +1,5 @@
-from asyncio.windows_events import NULL
 
-
-f = open("C:/Users/Abdullah/Desktop/test/Compiler Construction/file_handle/src2.txt", "rt")
+f = open("src2.txt", "rt")
 check = ['\n','\t','(',')','{','}','%','[',']','++','--','*=','+','-','<','>','!','!=','>=','<=','>>','<<','&&','&','=']
 a= []
 temp =''

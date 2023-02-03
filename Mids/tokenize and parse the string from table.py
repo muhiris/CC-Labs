@@ -1,9 +1,4 @@
-#FA19_bcs_146 7C #CC
-# LAB MID
-# ABDULLAH ALI
 
-
-from numpy import number
 
 
 file = open('input.txt','rt')

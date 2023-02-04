@@ -1,7 +1,7 @@
 ## Compiler Constructions Labs of Sir Nadeem
 
-> All these Labs are working 
-> according to our knowledge
+> All these Labs are working according to our knowledge  
+> If you found any issue and able to fix that. You can share your code here as Contributor.
 
 | Folder | Lab |
 | ------ | ------ |

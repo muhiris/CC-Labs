@@ -1,8 +1,10 @@
 ## Compiler Constructions Labs of Sir Nadeem
 
 > All these Labs are working according to our knowledge  
-> If you found any issue and able to fix that. You can share your code here as Contributor.  
-> WATCH RESPECTIVE [VIDEOS](https://www.youtube.com/playlist?list=PLK3Sck65huth7zWZGLFr2zQgaBRbrPfJJ) IF YOU WANT TO UNDERSTAND RESPECTIVE CODES  
+> If you found any issue and able to fix that. You can share your code here as Contributor.
+
+**To understand the code, watch respective video from [Sir Nadeem's playlist](https://www.youtube.com/playlist?list=PLK3Sck65huth7zWZGLFr2zQgaBRbrPfJJ) and check each line according to lecture**  
+
 
 
 | Folder | Lab |

@@ -47,13 +47,7 @@ class Tokenize:
             if not tok:
                 break
 
-            # Extract relative information i.e. value from the object of type lex token
-            token = str(tok)
-            start = token.find(',') + 1
-            end = start + token[start:].find(',')
-            valid_token = token[start:end].replace("'", '')
-
-            self.tokens.append(valid_token)
+            self.tokens.append(tok.value)
 
         return self.tokens
 
